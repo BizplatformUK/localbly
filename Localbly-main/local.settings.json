@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=localblyresafe5;AccountKey=dhkztLoTJ+q6sIn6L/Qffk6LMt8btUvhdec0lW9reaRbBYzISfQC/GQFf8FHTD16afFDwFnntWf9+ASttil7pg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  },
+  "Host":{
+    "CORS":"*"
+  }
+}
