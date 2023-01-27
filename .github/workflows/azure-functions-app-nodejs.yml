@@ -39,6 +39,6 @@ jobs:
         id: fa
         with:
           app-name: 'localblyfunctions'
-          slot-name: 'Production'
+          slot-name: 'dev'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
